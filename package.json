@@ -37,7 +37,7 @@
 		"lint-staged": "^17.0.8",
 		"prettier": "^3.9.5",
 		"sharp": "^0.35.3",
-		"svgo": "^4.0.2",
+		"svgo": "^4.1.0",
 		"typescript": "^5.9.3",
 		"vite": "^8.1.4",
 		"vite-plugin-image-optimizer": "^2.0.3"
